@@ -23,6 +23,7 @@ class Trans(object):
         #loads() transform json data to dict data
         dict_data = json.loads(data)
         return  dict_data
+    # TODO : update
 
     def run(self):
         response = self.get_data()

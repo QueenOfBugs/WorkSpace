@@ -31,9 +31,7 @@ def login():
     ## url3 验证
     url3 = 'https://github.com/QueenOfBugs'
     cookies = {
-        'Cookie':' _octo = GH1.1.986704088.1597720347;tz = Asia % 2FShanghai;_ga = GA1.2.1996796347.1597721335;_device_id = facf183cd27aa119af079545f9f08865; tz = Asia % 2FShanghai;has_recent_activity = 1;user_session = cXRA2fFw764 - QX8SDQqe5yT8xKrbaE - _8qf_FkJNlDHKJMzl;__Host - user_session_same_site = cXRA2fFw764 - QX8SDQqe5yT8xKrbaE - _8qf_FkJNlDHKJMzl;logged_in = yes;dotcom_user = QueenOfBugs;
-    _gat = 1;
-    _gh_sess = 18
+        'Cookie':' _octo = GH1.1.986704088.1597720347;tz = Asia % 2FShanghai;_ga = GA1.2.1996796347.1597721335;_device_id = facf183cd27aa119af079545f9f08865; tz = Asia % 2FShanghai;has_recent_activity = 1;user_session = cXRA2fFw764 - QX8SDQqe5yT8xKrbaE - _8qf_FkJNlDHKJMzl;__Host - user_session_same_site = cXRA2fFw764 - QX8SDQqe5yT8xKrbaE - _8qf_FkJNlDHKJMzl;logged_in = yes;dotcom_user = QueenOfBugs;_gat = 1;_gh_sess = 18
     AISCj5Mq1bQCYe2A42suaAOuwDEI3LVLFI3KZeN4fue2ET01GFgvt2QD % 2
     Bi0wYRXp4bYgNY0MrjYgA % 2
     BxZVkqUlhmnNb44zIlIiB7L0WVjGN63fq15jIITo88FlmnUSt9lVVwjWuhmTnPs2xf9i6iz07EvbrOJgq16RvzH8Pd4rCCQyo % 2

@@ -1,7 +1,7 @@
 import json
 from jsonpath import jsonpath
 
-book_list = '''{
+book_dict = '''{
         "store": {
             "book": [
                 {
@@ -38,8 +38,9 @@ book_list = '''{
         }
     }'''
 
-data = json.loads(book_list)
 
+# 将json字符串转化为字典
+data = json.loads(book_dict)
 # 获取自行车颜色
 print(jsonpath(data, '$..bicycle.color'))
 
